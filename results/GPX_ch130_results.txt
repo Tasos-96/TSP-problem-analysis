@@ -143,4 +143,4 @@ Number of unique elements: 130
 Final Tour Length: 47800.777963
 
 ---Execution Time---
-0.000448 seconds
+0.000445 seconds
