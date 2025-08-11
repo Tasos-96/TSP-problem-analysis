@@ -1,0 +1,21 @@
+# ninja log v5
+1	212	7311602188468130	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+214	415	7311602190418135	TSP_Problem.exe	ea22c3cc935e7035
+3	217	7311628299232253	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+218	402	7311628300997236	TSP_Problem.exe	ea22c3cc935e7035
+4	220	7311629897982224	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+221	399	7311629899707221	TSP_Problem.exe	ea22c3cc935e7035
+3	188	7311640962265316	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+189	362	7311640963930096	TSP_Problem.exe	ea22c3cc935e7035
+3	196	7311642904292654	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+197	389	7311642906147650	TSP_Problem.exe	ea22c3cc935e7035
+3	184	7311657818674067	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+185	388	7311657820609066	TSP_Problem.exe	ea22c3cc935e7035
+2	190	7311658166188854	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+190	401	7311658168213850	TSP_Problem.exe	ea22c3cc935e7035
+3	191	7311709606573810	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+192	403	7311709608568638	TSP_Problem.exe	ea22c3cc935e7035
+3	196	7311709879408656	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+196	385	7311709881228857	TSP_Problem.exe	ea22c3cc935e7035
+3	192	7311710478533660	CMakeFiles/TSP_Problem.dir/main.c.obj	6e9fee585a0a4ace
+193	377	7311710480338644	TSP_Problem.exe	ea22c3cc935e7035

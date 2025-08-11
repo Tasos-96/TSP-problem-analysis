@@ -1,0 +1,19 @@
+C:\Users\giann\AppData\Local\JetBrains\CLion2023.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/cygdrive/c/Users/giann/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/cygwin/x64/ninja.exe -G Ninja -S "/cygdrive/c/Users/giann/CLionProjects/TSP Problem" -B "/cygdrive/c/Users/giann/CLionProjects/TSP Problem/cmake-build-debug-cygwin"
+-- The C compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    GPX.h
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: TSP_Problem
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
