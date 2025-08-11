@@ -1,0 +1,23 @@
+--- SA2OPT algorithm results for the problem rng7.tsp ---
+
+Node_ID    X-coo        Y-coo
+1         20.000000   49.000000
+2         47.000000   39.000000
+3         58.000000   21.000000
+4         32.000000   34.000000
+5         51.000000   52.000000
+6         59.000000   43.000000
+7         26.000000   59.000000
+
+Size of tour: 7
+MSTlen: 127.803508
+
+Number of unique elements: 7
+
+---Final Tour---
+1 4 2 3 6 5 7 1
+
+Final Tour Length: 127.803508
+
+---Execution Time---
+1.963889 seconds

@@ -1,0 +1,22 @@
+--- VNS algorithm results for the problem rng6.tsp ---
+
+Node_ID    X-coo        Y-coo
+1         416.154676   227.613310
+2         535.251433   471.064864
+3         265.445553   684.998719
+4         478.054211   509.645203
+5         370.478120   332.539006
+6         598.347920   446.869328
+
+Size of tour: 6
+MSTlen: 1179.449717
+
+Number of unique elements: 6
+
+---Final Tour---
+6 2 4 3 5 1 6
+
+Final Tour Length: 1179.449717
+
+---Execution Time---
+0.000079 seconds

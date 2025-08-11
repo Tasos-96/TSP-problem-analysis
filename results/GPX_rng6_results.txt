@@ -1,0 +1,22 @@
+--- GPX algorithm results for the problem rng6.tsp ---
+
+Node_ID    X-coo        Y-coo
+1         416.154676   227.613310
+2         535.251433   471.064864
+3         265.445553   684.998719
+4         478.054211   509.645203
+5         370.478120   332.539006
+6         598.347920   446.869328
+
+Size of tour: 6
+MSTlen: 1638.179622
+
+Number of unique elements: 6
+
+---Final Tour---
+1 2 3 4 5 6 1
+
+Final Tour Length: 1638.179622
+
+---Execution Time---
+0.000102 seconds
