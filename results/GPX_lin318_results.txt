@@ -321,7 +321,8 @@ Node_ID    X-coo        Y-coo
 318         1693.000000   4055.000000
 
 Size of tour: 318
-MSTlen: 119866.892426
+MST Length: 37918.866096
+MST Execution Time: 0.002480 seconds
 
 Number of unique elements: 318
 
@@ -330,5 +331,10 @@ Number of unique elements: 318
 
 Final Tour Length: 119866.892426
 
+Tour vs MST Comparison:
+  - MST Length: 37918.866096
+  - Tour Length: 119866.892426
+  - Difference: 216.11%
+
 ---Execution Time---
-0.001450 seconds
+0.002790 seconds

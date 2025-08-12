@@ -283,7 +283,8 @@ Node_ID    X-coo        Y-coo
 280         280.000000   133.000000
 
 Size of tour: 280
-MSTlen: 34799.664639
+MST Length: 2438.566741
+MST Execution Time: 0.003901 seconds
 
 Number of unique elements: 280
 
@@ -292,5 +293,10 @@ Number of unique elements: 280
 
 Final Tour Length: 34799.664639
 
+Tour vs MST Comparison:
+  - MST Length: 2438.566741
+  - Tour Length: 34799.664639
+  - Difference: 1327.05%
+
 ---Execution Time---
-0.036218 seconds
+0.045937 seconds

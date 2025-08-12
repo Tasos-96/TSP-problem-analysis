@@ -229,7 +229,8 @@ Node_ID    X-coo        Y-coo
 226         13925.000000   11850.000000
 
 Size of tour: 226
-MSTlen: 110416.106193
+MST Length: 68639.959773
+MST Execution Time: 0.002022 seconds
 
 Number of unique elements: 226
 
@@ -238,5 +239,10 @@ Number of unique elements: 226
 
 Final Tour Length: 110416.106193
 
+Tour vs MST Comparison:
+  - MST Length: 68639.959773
+  - Tour Length: 110416.106193
+  - Difference: 60.86%
+
 ---Execution Time---
-0.000906 seconds
+0.001740 seconds

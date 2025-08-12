@@ -1,4 +1,4 @@
---- SA2OPT algorithm results for the problem rng8.tsp ---
+--- GPX algorithm results for the problem rng8.tsp ---
 
 Node_ID    X-coo        Y-coo
 1         2489.000000   1520.000000
@@ -17,14 +17,14 @@ MST Execution Time: 0.000018 seconds
 Number of unique elements: 8
 
 ---Final Tour---
-1 6 3 2 4 5 7 8 1
+1 2 3 4 5 6 7 8 1
 
-Final Tour Length: 8681.067327
+Final Tour Length: 13806.296439
 
 Tour vs MST Comparison:
   - MST Length: 5103.516980
-  - Tour Length: 8681.067327
-  - Difference: 70.10%
+  - Tour Length: 13806.296439
+  - Difference: 170.53%
 
 ---Execution Time---
-3.368294 seconds
+0.000033 seconds

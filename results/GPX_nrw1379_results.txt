@@ -1382,7 +1382,8 @@ Node_ID    X-coo        Y-coo
 1379         5294.000000   7376.000000
 
 Size of tour: 1379
-MSTlen: 712360.721085
+MST Length: 52013.194795
+MST Execution Time: 0.042933 seconds
 
 Number of unique elements: 1379
 
@@ -1391,5 +1392,10 @@ Number of unique elements: 1379
 
 Final Tour Length: 712360.721085
 
+Tour vs MST Comparison:
+  - MST Length: 52013.194795
+  - Tour Length: 712360.721085
+  - Difference: 1269.58%
+
 ---Execution Time---
-0.032103 seconds
+0.037963 seconds

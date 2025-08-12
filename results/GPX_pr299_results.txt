@@ -302,7 +302,8 @@ Node_ID    X-coo        Y-coo
 299         4775.000000   3225.000000
 
 Size of tour: 299
-MSTlen: 83507.793368
+MST Length: 42493.236090
+MST Execution Time: 0.002243 seconds
 
 Number of unique elements: 299
 
@@ -311,5 +312,10 @@ Number of unique elements: 299
 
 Final Tour Length: 83507.793368
 
+Tour vs MST Comparison:
+  - MST Length: 42493.236090
+  - Tour Length: 83507.793368
+  - Difference: 96.52%
+
 ---Execution Time---
-0.001379 seconds
+0.002443 seconds

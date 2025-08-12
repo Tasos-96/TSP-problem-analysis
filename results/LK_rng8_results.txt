@@ -11,14 +11,20 @@ Node_ID    X-coo        Y-coo
 8         2312.000000   1270.000000
 
 Size of tour: 8
-MSTlen: 11073.569242
+MST Length: 5103.516980
+MST Execution Time: 0.000018 seconds
 
 Number of unique elements: 8
 
 ---Final Tour---
-2 1 7 5 6 4 8 3 2
+8 7 3 6 2 1 5 4 8
 
-Final Tour Length: 11073.569242
+Final Tour Length: 12834.853615
+
+Tour vs MST Comparison:
+  - MST Length: 5103.516980
+  - Tour Length: 12834.853615
+  - Difference: 151.49%
 
 ---Execution Time---
-0.000616 seconds
+0.001181 seconds
